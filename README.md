@@ -1,4 +1,4 @@
 # hello-world
-Hello world!! :D
-hello :O
-world? D:
+De hecho no se qué escribir
+simplemente que todo
+sea distinto al otro archivo
